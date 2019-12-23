@@ -23,7 +23,6 @@ if (groupSize >= 1 && groupSize <= 2) {
 }
 
 // Results
-
 function results() {
     return("Since you’re a group of " + groupSize + " going on a " + vacationType + " vacation, you should take a " + travelSuggestion + " to " + destination);
 }
